@@ -9,7 +9,7 @@ Instruction on running the webapp:
 3. Open the .war file with the web server for running a web application such as Apache Tomcat
 4. Ensure that the web server accesses localhost:8089 URL when running the web application
 5. The username and password for the administrator account are:
-6. Username: Joe
-7. Password: 12345
+ Username: Joe
+ Password: 12345
 8. You can create a new account and set the account role using this administrator account.
 9. Enjoy testing the program!
