@@ -3,6 +3,10 @@ This project aims to develop a Java-based web application for an accounting comp
 
 The second part is a back-end Source Package which uses Java language throughout. The OOP folder consists of JAVA classes that inherit object-oriented characteristics, the detailed explanation of this will be contained in the next part. The Servlet folder contains files that handle function requests from the web page JSP files such as the delete button.
 
+The video run-through can be viewed at Accounting Company Webapp - Video Run Through.mp4
+
+The extended report can be found at Accounting Company Webapp Report.pdf
+
 Instruction on running the webapp:
 1. Download the .war file and the mySQL database file called dump20240229
 2. Connect the database file to port 3306
